@@ -22,7 +22,7 @@
 
 ## 강의 목차
 
-자바 강의 목차 : https://www.inflearn.com/roadmaps/744?srsltid=AfmBOopHgTDQ5Xh5nkoT7H-UlXLFsqgAg27Y88oTeDbX6rM8RmsDod6c
+자바 강의 목차 : https://github.com/virtue14/Java-Roadmap
 
 
 스프링 강의 목차 참고 : https://github.com/2024-SpringStudy/.github/blob/main/profile/README.md
