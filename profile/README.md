@@ -11,7 +11,7 @@
 
 [📒 JAVA 레포 바로가기](https://github.com/JAVA-SPRING-STUDY-GROUP/java)
 
-[📒 스프링 레포 바로가기](https://github.com/orgs/JAVA-SPRING-STUDY-GROUP/spring)
+[📒 스프링 레포 바로가기](https://github.com/JAVA-SPRING-STUDY-GROUP/spring)
 
 
 
