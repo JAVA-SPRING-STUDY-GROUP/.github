@@ -7,7 +7,7 @@
 
 [📒 Discussion 바로가기](https://github.com/orgs/JAVA-SPRING-STUDY-GROUP/discussions)
 
-[📒 Notion 바로가기](https: notion...  적기)
+[📒 Notion 바로가기](https://imminent-flat-e01.notion.site/9-00-10-30-22de7ecf764a80f68b82e6b4776c6a50)
 
 [📒 JAVA 레포 바로가기](https://github.com/JAVA-SPRING-STUDY-GROUP/java)
 
