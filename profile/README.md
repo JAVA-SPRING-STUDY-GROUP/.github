@@ -44,6 +44,6 @@
 | --- | --- | --- |
 | Grace | [software24](https://github.com/swdevelop24) |   👨‍💻👑  |
 | 정균 | [ryujungkyun](https://github.com/ryujungkyun)  |  👨‍💻  |
-| 제이 | [fe-Jay(Jay)](https://github.com/fe-Jay) | 👨‍💻  |
+|  | []() | 👨‍💻  |
 | 형근 | [HyungGeun94](https://github.com/HyungGeun94) | 👨‍💻  |
 
