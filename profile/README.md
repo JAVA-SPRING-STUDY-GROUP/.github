@@ -43,7 +43,10 @@
 | 이름 | username | state |
 | --- | --- | --- |
 | Grace | [software24](https://github.com/swdevelop24) |   👨‍💻👑  |
+| 꼬마 | [](https://github.com/) | 👨‍💻  |
+| 소희 | [KimSoHee](https://github.com/BillionDollarSohee) | 👨‍💻  |
 | 정균 | [ryujungkyun](https://github.com/ryujungkyun)  |  👨‍💻  |
 | 준형 | [HighandLight](https://github.com/HighandLight) | 👨‍💻  |
 | 형근 | [HyungGeun94](https://github.com/HyungGeun94) | 👨‍💻  |
+
 
