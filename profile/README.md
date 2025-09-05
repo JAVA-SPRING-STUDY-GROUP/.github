@@ -5,7 +5,7 @@
 자바와 스프링 김영한 로드맵 스터디를 위한 공간입니다. 
 
 
-[📒 Discussion 바로가기](https://github.com/orgs/JAVA-SPRING-STUDY-GROUP/discussions) => 9월이후 공지만 올릴 예정입니다. 
+[📒 Discussion 바로가기](https://github.com/orgs/JAVA-SPRING-STUDY-GROUP/discussions) => 9월이후 공지만 올리고 프라이빗 레포에 올림  
 
 [📒 Notion 바로가기](https://www.notion.so/Update-9-00-11-00-265e7ecf764a805d9001d0a54704da3a#265e7ecf764a81458fd6c1a1a0e88c1c) 
 
@@ -32,7 +32,7 @@
 
 ## 스터디 시간 
 
-  주 1회  한국시간 9:00PM - 10:30PM  (금요일 확정) 
+  주 1회  한국시간 9:00PM - 11:00PM  (금요일 확정) 
   일정이 있을시에 월-목 사이 다른 요일에 같은 시간으로 보충 
 
 
@@ -50,7 +50,8 @@
 
 
 <8월까지 참석>
-
+| 이름 | username | state |
+| --- | --- | --- |
 | 소희 | [KimSoHee](https://github.com/BillionDollarSohee) | 👨‍💻   
 
 
