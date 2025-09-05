@@ -5,7 +5,7 @@
 자바와 스프링 김영한 로드맵 스터디를 위한 공간입니다. 
 
 
-[📒 Discussion 바로가기](https://github.com/orgs/JAVA-SPRING-STUDY-GROUP/discussions)
+[📒 Discussion 바로가기](https://github.com/orgs/JAVA-SPRING-STUDY-GROUP/discussions) => 9월이후 공지만 올릴 예정입니다. 
 
 [📒 Notion 바로가기](https://www.notion.so/Update-9-00-11-00-265e7ecf764a805d9001d0a54704da3a#265e7ecf764a81458fd6c1a1a0e88c1c) 
 
@@ -43,10 +43,15 @@
 | 이름 | username | state |
 | --- | --- | --- |
 | Grace | [software24](https://github.com/swdevelop24) |   👨‍💻👑  |
-| 소희 | [KimSoHee](https://github.com/BillionDollarSohee) | 👨‍💻  |
 | 시경 | [leesikyeong](https://github.com/leesikyeong) | 👨‍💻  |
 | 정균 | [ryujungkyun](https://github.com/ryujungkyun)  |  👨‍💻  |
 | 준형 | [HighandLight](https://github.com/HighandLight) | 👨‍💻  |
 | 형근 | [HyungGeun94](https://github.com/HyungGeun94) | 👨‍💻  |
+
+
+<8월까지 참석>
+
+| 소희 | [KimSoHee](https://github.com/BillionDollarSohee) | 👨‍💻   
+
 
 
