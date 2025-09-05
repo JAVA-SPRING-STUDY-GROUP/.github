@@ -5,11 +5,13 @@
 자바와 스프링 김영한 로드맵 스터디를 위한 공간입니다. 
 
 
-[📒 Discussion 바로가기](https://github.com/orgs/JAVA-SPRING-STUDY-GROUP/discussions) => 9월이후 공지만 올리고 프라이빗 레포에 올림  
+[📒 Announcement 바로가기](https://github.com/orgs/JAVA-SPRING-STUDY-GROUP/discussions) => 9월이후 공지만 올리고 디스커션 부분은 프라이빗 레포에 올림  
 
 [📒 Notion 바로가기](https://www.notion.so/Update-9-00-11-00-265e7ecf764a805d9001d0a54704da3a#265e7ecf764a81458fd6c1a1a0e88c1c) 
 
 [📒 JAVA 레포 바로가기](https://github.com/JAVA-SPRING-STUDY-GROUP/java) (private repo)
+
+[📒 Discussion 레포 바로가기](https://github.com/JAVA-SPRING-STUDY-GROUP/discussion ) (private repo)
 
 [📒 스프링 레포 바로가기](https://github.com/JAVA-SPRING-STUDY-GROUP/spring) (private repo)
 
