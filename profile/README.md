@@ -44,7 +44,8 @@
 
 | 이름 | username | state |
 | --- | --- | --- |
-| Grace | [software24](https://github.com/swdevelop24) |   👨‍💻👑  |
+| Grace | [software24](https://github.com/swdevelop24) | 👨‍💻  |
+| 민혁 | [BEpaul](https://github.com/BEpaul)|| | 👨‍💻  | --10월부터 
 | 시경 | [leesikyeong](https://github.com/leesikyeong) | 👨‍💻  |
 | 정균 | [ryujungkyun](https://github.com/ryujungkyun)  |  👨‍💻  |
 | 준형 | [HighandLight](https://github.com/HighandLight) | 👨‍💻  |
